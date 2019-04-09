@@ -1,2 +1,2 @@
-# pool
-Byte buffer pool for Golang
+
+# Byte buffer pool
